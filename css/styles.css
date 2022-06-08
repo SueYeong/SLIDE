@@ -12,15 +12,10 @@
 }
 
 .con_wrap{
-    width: 3000px;
-    height: 100%;
     background-color: lightblue;
-    display: flex;
 }
 
 .con{
-    width: 1000px;
-    height: 100%;
     background-color: gold;
     font-size: 100px;
     display: flex;
